@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\sotero\OneDrive\WS-Eclipse\retorno1\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
